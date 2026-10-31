@@ -1,0 +1,5 @@
+org.springframework.boot.diagnostics.FailureAnalyzer=\
+com.alibaba.cloud.nacos.configdata.NacosConfigDataMissingEnvironmentPostProcessor.ImportExceptionFailureAnalyzer
+org.springframework.boot.EnvironmentPostProcessor=\
+com.alibaba.cloud.nacos.configdata.NacosConfigDataMissingEnvironmentPostProcessor
+

@@ -1,0 +1,18 @@
+[
+  {
+    "condition": {
+      "typeReachable": "org.apache.config.ConfigurationCache"
+    },
+    "interfaces": [
+      "org.apache.config.Configuration"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.spring.boot.autoconfigure.provider.SpringBootConfigurationProvider"
+    },
+    "interfaces": [
+      "org.apache.config.Configuration"
+    ]
+  }
+]

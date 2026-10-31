@@ -1,0 +1,73 @@
+/*
+ * Copyright 1999-2018 Alibaba Group Holding Ltd.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+package com.alibaba.druid.pool.xa;
+
+import javax.sql.ConnectionEventListener;
+import javax.sql.StatementEventListener;
+import javax.sql.XAConnection;
+import javax.transaction.xa.XAResource;
+import java.sql.Connection;
+import java.sql.SQLException;
+
+public class JtdsXAConnection implements XAConnection {
+
+    private Connection connection;
+
+    private final XAResource resource;
+
+    private final int xaConnectionId;
+
+    public JtdsXAConnection(Connection connection) throws SQLException {
+        // TODO
+    }
+
+    int getXAConnectionID() {
+        return this.xaConnectionId;
+    }
+
+    @Override
+    public Connection getConnection() throws SQLException {
+        // TODO
+        return null;
+    }
+
+    @Override
+    public void close() throws SQLException {
+        // TODO
+    }
+
+    @Override
+    public void addConnectionEventListener(ConnectionEventListener listener) {
+    }
+
+    @Override
+    public void removeConnectionEventListener(ConnectionEventListener listener) {
+    }
+
+    @Override
+    public void addStatementEventListener(StatementEventListener listener) {
+    }
+
+    @Override
+    public void removeStatementEventListener(StatementEventListener listener) {
+    }
+
+    @Override
+    public XAResource getXAResource() throws SQLException {
+        // TODO
+        return null;
+    }
+}

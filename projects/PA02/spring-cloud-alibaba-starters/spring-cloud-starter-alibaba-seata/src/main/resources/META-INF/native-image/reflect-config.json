@@ -1,0 +1,528 @@
+[
+  {
+    "condition": {
+      "typeReachable": "org.apache.config.ConfigurationCache"
+    },
+    "name": "org.apache.config.Configuration"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.config.ConfigurationCache$$Lambda$494/0x00000008010e8000"
+    },
+    "name": "org.apache.config.Configuration"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.core.event.GuavaEventBus"
+    },
+    "name": "org.apache.config.ConfigurationChangeListener",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.config.ConfigurationFactory"
+    },
+    "name": "org.apache.config.apollo.ApolloConfigurationProvider"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.config.ConfigurationFactory"
+    },
+    "name": "org.apache.config.consul.ConsulConfigurationProvider"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.config.ConfigurationFactory"
+    },
+    "name": "org.apache.config.custom.CustomConfigurationProvider"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.config.ConfigurationFactory"
+    },
+    "name": "org.apache.config.etcd3.EtcdConfigurationProvider"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.common.loader.EnhancedServiceLoader$InnerEnhancedServiceLoader"
+    },
+    "name": "org.apache.config.file.SimpleFileConfig",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.common.loader.EnhancedServiceLoader$InnerEnhancedServiceLoader"
+    },
+    "name": "org.apache.config.file.YamlFileConfig"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.config.ConfigurationFactory"
+    },
+    "name": "org.apache.config.nacos.NacosConfigurationProvider",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.config.processor.ConfigProcessor"
+    },
+    "name": "org.apache.config.processor.ProcessorProperties",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.config.processor.ConfigProcessor"
+    },
+    "name": "org.apache.config.processor.ProcessorYaml"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.config.ConfigurationFactory"
+    },
+    "name": "org.apache.config.springcloud.SpringCloudConfigurationProvider"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.config.ConfigurationFactory"
+    },
+    "name": "org.apache.config.zk.ZookeeperConfigurationProvider"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.core.rpc.netty.TmNettyRemotingClient"
+    },
+    "name": "org.apache.core.auth.DefaultAuthSigner",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.core.context.ContextCoreLoader$ContextCoreHolder"
+    },
+    "name": "org.apache.core.context.FastThreadLocalContextCore",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.core.context.ContextCoreLoader$ContextCoreHolder"
+    },
+    "name": "org.apache.core.context.ThreadLocalContextCore"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.core.rpc.netty.AbstractNettyRemoting"
+    },
+    "name": "org.apache.core.rpc.hook.StatusRpcHook",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.core.rpc.netty.NettyClientBootstrap"
+    },
+    "name": "org.apache.core.rpc.netty.AbstractNettyRemotingClient$ClientHandler",
+    "methods": [
+      {
+        "name": "channelInactive",
+        "parameterTypes": [
+          "io.netty.channel.ChannelHandlerContext"
+        ]
+      },
+      {
+        "name": "channelRead",
+        "parameterTypes": [
+          "io.netty.channel.ChannelHandlerContext",
+          "java.lang.Object"
+        ]
+      },
+      {
+        "name": "channelWritabilityChanged",
+        "parameterTypes": [
+          "io.netty.channel.ChannelHandlerContext"
+        ]
+      },
+      {
+        "name": "close",
+        "parameterTypes": [
+          "io.netty.channel.ChannelHandlerContext",
+          "io.netty.channel.ChannelPromise"
+        ]
+      },
+      {
+        "name": "exceptionCaught",
+        "parameterTypes": [
+          "io.netty.channel.ChannelHandlerContext",
+          "java.lang.Throwable"
+        ]
+      },
+      {
+        "name": "userEventTriggered",
+        "parameterTypes": [
+          "io.netty.channel.ChannelHandlerContext",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.core.rpc.netty.NettyClientBootstrap"
+    },
+    "name": "org.apache.core.rpc.netty.NettyClientBootstrap$1"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.core.rpc.netty.NettyClientBootstrap$1"
+    },
+    "name": "org.apache.core.rpc.netty.v1.ProtocolV1Decoder"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.core.rpc.netty.NettyClientBootstrap$1"
+    },
+    "name": "org.apache.core.rpc.netty.v1.ProtocolV1Encoder"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.discovery.registry.RegistryFactory"
+    },
+    "name": "org.apache.discovery.registry.FileRegistryProvider"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.discovery.registry.RegistryFactory"
+    },
+    "name": "org.apache.discovery.registry.consul.ConsulRegistryProvider"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.discovery.registry.RegistryFactory"
+    },
+    "name": "org.apache.discovery.registry.custom.CustomRegistryProvider"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.discovery.registry.RegistryFactory"
+    },
+    "name": "org.apache.discovery.registry.etcd3.EtcdRegistryProvider"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.discovery.registry.RegistryFactory"
+    },
+    "name": "org.apache.discovery.registry.eureka.EurekaRegistryProvider"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.discovery.registry.RegistryFactory"
+    },
+    "name": "org.apache.discovery.registry.nacos.NacosRegistryProvider",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.discovery.registry.RegistryFactory"
+    },
+    "name": "org.apache.discovery.registry.redis.RedisRegistryProvider"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.discovery.registry.RegistryFactory"
+    },
+    "name": "org.apache.discovery.registry.sofa.SofaRegistryProvider"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.discovery.registry.RegistryFactory"
+    },
+    "name": "org.apache.discovery.registry.zk.ZookeeperRegistryProvider"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.spring.annotation.GlobalTransactionScanner"
+    },
+    "name": "org.apache.integration.http.JakartaSeataWebMvcConfigurer",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.rm.DefaultRMHandler"
+    },
+    "name": "org.apache.rm.RMHandlerAT",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.rm.DefaultRMHandler"
+    },
+    "name": "org.apache.rm.RMHandlerXA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.rm.DefaultResourceManager"
+    },
+    "name": "org.apache.rm.datasource.DataSourceManager",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.rm.DefaultResourceManager"
+    },
+    "name": "org.apache.rm.datasource.xa.ResourceManagerXA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.rm.DefaultRMHandler"
+    },
+    "name": "org.apache.rm.tcc.RMHandlerTCC",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.rm.DefaultResourceManager"
+    },
+    "name": "org.apache.rm.tcc.TCCResourceManager",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.rm.tcc.remoting.parser.DefaultRemotingParser"
+    },
+    "name": "org.apache.rm.tcc.remoting.parser.DubboRemotingParser",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.rm.tcc.remoting.parser.DefaultRemotingParser"
+    },
+    "name": "org.apache.rm.tcc.remoting.parser.HSFRemotingParser",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.rm.tcc.remoting.parser.DefaultRemotingParser"
+    },
+    "name": "org.apache.rm.tcc.remoting.parser.LocalTCCRemotingParser",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.rm.tcc.remoting.parser.DefaultRemotingParser"
+    },
+    "name": "org.apache.rm.tcc.remoting.parser.SofaRpcRemotingParser",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.rm.DefaultRMHandler"
+    },
+    "name": "org.apache.saga.rm.RMHandlerSaga",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.rm.DefaultResourceManager"
+    },
+    "name": "org.apache.saga.rm.SagaResourceManager",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.core.serializer.SerializerServiceLoader"
+    },
+    "name": "org.apache.serializer.fst.FstSerializer"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.core.serializer.SerializerServiceLoader"
+    },
+    "name": "org.apache.serializer.hessian.HessianSerializer"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.core.serializer.SerializerServiceLoader"
+    },
+    "name": "org.apache.serializer.kryo.KryoSerializer"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.core.serializer.SerializerServiceLoader"
+    },
+    "name": "org.apache.serializer.seata.SeataSerializer",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.core.event.GuavaEventBus"
+    },
+    "name": "org.apache.spring.annotation.GlobalTransactionalInterceptor",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.core.event.GuavaEventBus"
+    },
+    "name": "org.apache.spring.annotation.SeataInterceptor",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.spring.boot.autoconfigure.SeataAutoConfiguration"
+    },
+    "name": "org.apache.spring.annotation.scannercheckers.ConfigBeansScannerChecker",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.spring.boot.autoconfigure.SeataAutoConfiguration"
+    },
+    "name": "org.apache.spring.annotation.scannercheckers.PackageScannerChecker",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.spring.boot.autoconfigure.SeataAutoConfiguration"
+    },
+    "name": "org.apache.spring.annotation.scannercheckers.ScopeBeansScannerChecker",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.config.ConfigurationFactory"
+    },
+    "name": "org.apache.spring.boot.autoconfigure.provider.SpringBootConfigurationProvider",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.tm.TransactionManagerHolder$SingletonHolder"
+    },
+    "name": "org.apache.tm.DefaultTransactionManager",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  }
+]

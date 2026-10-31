@@ -1,0 +1,3021 @@
+{
+  "validation_version": 2,
+  "subset": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/subset100.json",
+  "selected_count": 100,
+  "precheck": {
+    "exact_reconstruction": 100,
+    "rejected": 0,
+    "tasks": [
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/RuleType.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/RuleType.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/RuleType.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/RuleType.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/SQLUtils.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/SQLUtils.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/SQLUtils.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/SQLUtils.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-schedulerx/src/main/java/com/alibaba/cloud/scheduling/schedulerx/util/CronExpression.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-schedulerx/src/main/java/com/alibaba/cloud/scheduling/schedulerx/util/CronExpression.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-schedulerx/src/main/java/com/alibaba/cloud/scheduling/schedulerx/util/CronExpression.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-schedulerx/src/main/java/com/alibaba/cloud/scheduling/schedulerx/util/CronExpression.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/wall/spi/PGWallProvider.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/wall/spi/PGWallProvider.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/wall/spi/PGWallProvider.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/wall/spi/PGWallProvider.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/factorybean/FileRefreshableDataSourceFactoryBean.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/factorybean/FileRefreshableDataSourceFactoryBean.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/factorybean/FileRefreshableDataSourceFactoryBean.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/factorybean/FileRefreshableDataSourceFactoryBean.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/SQLOrderBy.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/ast/SQLOrderBy.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/ast/SQLOrderBy.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/ast/SQLOrderBy.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-tests/spring-cloud-alibaba-test-support/src/main/java/com/alibaba/cloud/testsupport/ContainerStarter.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-tests/spring-cloud-alibaba-test-support/src/main/java/com/alibaba/cloud/testsupport/ContainerStarter.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-tests/spring-cloud-alibaba-test-support/src/main/java/com/alibaba/cloud/testsupport/ContainerStarter.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-tests/spring-cloud-alibaba-test-support/src/main/java/com/alibaba/cloud/testsupport/ContainerStarter.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/ast/MySqlKey.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/dialect/mysql/ast/MySqlKey.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/ast/MySqlKey.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/ast/MySqlKey.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/registry/NacosRegistration.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/registry/NacosRegistration.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/registry/NacosRegistration.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/registry/NacosRegistration.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/filter/logging/Log4jFilter.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/filter/logging/Log4jFilter.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/filter/logging/Log4jFilter.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/filter/logging/Log4jFilter.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/event/NacosDiscoveryInfoChangedEvent.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/event/NacosDiscoveryInfoChangedEvent.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/event/NacosDiscoveryInfoChangedEvent.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/event/NacosDiscoveryInfoChangedEvent.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/SQLOver.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/ast/SQLOver.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/ast/SQLOver.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/ast/SQLOver.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/config/DataSourcePropertiesConfiguration.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/config/DataSourcePropertiesConfiguration.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/config/DataSourcePropertiesConfiguration.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/config/DataSourcePropertiesConfiguration.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/util/DruidPasswordCallback.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/util/DruidPasswordCallback.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/util/DruidPasswordCallback.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/util/DruidPasswordCallback.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/SentinelConfigBuilder.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/SentinelConfigBuilder.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/SentinelConfigBuilder.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/SentinelConfigBuilder.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLJoinTableSource.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLJoinTableSource.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLJoinTableSource.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLJoinTableSource.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/SentinelCircuitBreakerFactory.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/SentinelCircuitBreakerFactory.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/SentinelCircuitBreakerFactory.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/SentinelCircuitBreakerFactory.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/wall/WallFunctionStat.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/wall/WallFunctionStat.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/wall/WallFunctionStat.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/wall/WallFunctionStat.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-stream-rocketmq/src/main/java/com/alibaba/cloud/stream/binder/rocketmq/properties/RocketMQCommonProperties.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-starter-stream-rocketmq/src/main/java/com/alibaba/cloud/stream/binder/rocketmq/properties/RocketMQCommonProperties.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-starter-stream-rocketmq/src/main/java/com/alibaba/cloud/stream/binder/rocketmq/properties/RocketMQCommonProperties.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-starter-stream-rocketmq/src/main/java/com/alibaba/cloud/stream/binder/rocketmq/properties/RocketMQCommonProperties.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/ast/MySqlForceIndexHint.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/dialect/mysql/ast/MySqlForceIndexHint.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/ast/MySqlForceIndexHint.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/ast/MySqlForceIndexHint.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/annotation/NacosPropertiesKeyListener.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/annotation/NacosPropertiesKeyListener.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/annotation/NacosPropertiesKeyListener.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/annotation/NacosPropertiesKeyListener.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/support/http/stat/WebAppStatManager.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/support/http/stat/WebAppStatManager.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/support/http/stat/WebAppStatManager.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/support/http/stat/WebAppStatManager.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/client/NacosPropertySourceBuilder.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/client/NacosPropertySourceBuilder.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/client/NacosPropertySourceBuilder.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/client/NacosPropertySourceBuilder.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/util/DaemonThreadFactory.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/util/DaemonThreadFactory.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/util/DaemonThreadFactory.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/util/DaemonThreadFactory.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-gateway/src/main/java/com/alibaba/cloud/sentinel/gateway/scg/SentinelSCGAutoConfiguration.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-gateway/src/main/java/com/alibaba/cloud/sentinel/gateway/scg/SentinelSCGAutoConfiguration.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-gateway/src/main/java/com/alibaba/cloud/sentinel/gateway/scg/SentinelSCGAutoConfiguration.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-gateway/src/main/java/com/alibaba/cloud/sentinel/gateway/scg/SentinelSCGAutoConfiguration.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLSizeExpr.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLSizeExpr.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLSizeExpr.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLSizeExpr.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/config/FileDataSourceProperties.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/config/FileDataSourceProperties.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/config/FileDataSourceProperties.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/config/FileDataSourceProperties.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLAlterTableAddConstraint.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLAlterTableAddConstraint.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLAlterTableAddConstraint.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLAlterTableAddConstraint.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/NacosConfigProperties.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/NacosConfigProperties.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/NacosConfigProperties.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/NacosConfigProperties.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/PagerUtils.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/PagerUtils.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/PagerUtils.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/PagerUtils.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-examples/sentinel-example/sentinel-resttemplate-example/src/main/java/com/alibaba/cloud/examples/RestTemplateApplication.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-examples/sentinel-example/sentinel-resttemplate-example/src/main/java/com/alibaba/cloud/examples/RestTemplateApplication.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-examples/sentinel-example/sentinel-resttemplate-example/src/main/java/com/alibaba/cloud/examples/RestTemplateApplication.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-examples/sentinel-example/sentinel-resttemplate-example/src/main/java/com/alibaba/cloud/examples/RestTemplateApplication.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/support/logging/SLF4JImpl.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/support/logging/SLF4JImpl.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/support/logging/SLF4JImpl.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/support/logging/SLF4JImpl.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-sentinel/src/main/java/com/alibaba/cloud/sentinel/rest/SentinelClientHttpResponse.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-sentinel/src/main/java/com/alibaba/cloud/sentinel/rest/SentinelClientHttpResponse.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-sentinel/src/main/java/com/alibaba/cloud/sentinel/rest/SentinelClientHttpResponse.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-sentinel/src/main/java/com/alibaba/cloud/sentinel/rest/SentinelClientHttpResponse.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/pool/ha/selector/RandomDataSourceRecoverThread.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/pool/ha/selector/RandomDataSourceRecoverThread.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/pool/ha/selector/RandomDataSourceRecoverThread.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/pool/ha/selector/RandomDataSourceRecoverThread.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/refresh/NacosConfigRefreshEvent.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/refresh/NacosConfigRefreshEvent.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/refresh/NacosConfigRefreshEvent.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/refresh/NacosConfigRefreshEvent.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLWhileStatement.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLWhileStatement.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLWhileStatement.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLWhileStatement.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/registry/NacosGracefulShutdownDelegate.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/registry/NacosGracefulShutdownDelegate.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/registry/NacosGracefulShutdownDelegate.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/registry/NacosGracefulShutdownDelegate.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/mock/MockClob.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/mock/MockClob.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/mock/MockClob.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/mock/MockClob.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/refresh/NacosRefreshHistory.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/refresh/NacosRefreshHistory.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/refresh/NacosRefreshHistory.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/refresh/NacosRefreshHistory.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/visitor/MySqlSchemaStatVisitor.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/dialect/mysql/visitor/MySqlSchemaStatVisitor.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/visitor/MySqlSchemaStatVisitor.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/visitor/MySqlSchemaStatVisitor.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/ReactiveSentinelCircuitBreaker.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/ReactiveSentinelCircuitBreaker.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/ReactiveSentinelCircuitBreaker.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/ReactiveSentinelCircuitBreaker.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLExtractExpr.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLExtractExpr.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLExtractExpr.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLExtractExpr.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-tests/spring-cloud-alibaba-test-support/src/main/java/com/alibaba/cloud/testsupport/Tester.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-tests/spring-cloud-alibaba-test-support/src/main/java/com/alibaba/cloud/testsupport/Tester.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-tests/spring-cloud-alibaba-test-support/src/main/java/com/alibaba/cloud/testsupport/Tester.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-tests/spring-cloud-alibaba-test-support/src/main/java/com/alibaba/cloud/testsupport/Tester.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLBinaryExpr.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLBinaryExpr.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLBinaryExpr.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLBinaryExpr.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/factorybean/NacosDataSourceFactoryBean.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/factorybean/NacosDataSourceFactoryBean.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/factorybean/NacosDataSourceFactoryBean.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/factorybean/NacosDataSourceFactoryBean.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/parser/MySqlExprParser.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/dialect/mysql/parser/MySqlExprParser.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/parser/MySqlExprParser.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/parser/MySqlExprParser.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-sentinel/src/main/java/com/alibaba/cloud/sentinel/endpoint/SentinelEndpoint.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-sentinel/src/main/java/com/alibaba/cloud/sentinel/endpoint/SentinelEndpoint.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-sentinel/src/main/java/com/alibaba/cloud/sentinel/endpoint/SentinelEndpoint.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-sentinel/src/main/java/com/alibaba/cloud/sentinel/endpoint/SentinelEndpoint.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLSelect.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLSelect.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLSelect.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLSelect.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/SentinelCircuitBreaker.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/SentinelCircuitBreaker.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/SentinelCircuitBreaker.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/SentinelCircuitBreaker.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLCreateViewStatement.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLCreateViewStatement.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLCreateViewStatement.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLCreateViewStatement.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/NacosServiceDiscovery.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/NacosServiceDiscovery.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/NacosServiceDiscovery.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/NacosServiceDiscovery.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLIdentifierExpr.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLIdentifierExpr.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLIdentifierExpr.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLIdentifierExpr.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/registry/NacosAutoServiceRegistration.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/registry/NacosAutoServiceRegistration.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/registry/NacosAutoServiceRegistration.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/registry/NacosAutoServiceRegistration.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLGroupingSetExpr.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLGroupingSetExpr.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLGroupingSetExpr.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLGroupingSetExpr.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/ServiceCache.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/ServiceCache.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/ServiceCache.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/ServiceCache.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/druid-spring-boot-3-starter/src/main/java/com/alibaba/druid/spring/boot3/autoconfigure/DruidDataSourceBuilder.java",
+        "project_id": "PA03",
+        "target": "druid-spring-boot-3-starter/src/main/java/com/alibaba/druid/spring/boot3/autoconfigure/DruidDataSourceBuilder.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/druid-spring-boot-3-starter/src/main/java/com/alibaba/druid/spring/boot3/autoconfigure/DruidDataSourceBuilder.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/druid-spring-boot-3-starter/src/main/java/com/alibaba/druid/spring/boot3/autoconfigure/DruidDataSourceBuilder.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/ReactiveSentinelCircuitBreakerFactory.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/ReactiveSentinelCircuitBreakerFactory.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/ReactiveSentinelCircuitBreakerFactory.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/ReactiveSentinelCircuitBreakerFactory.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/support/http/AbstractWebStatImpl.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/support/http/AbstractWebStatImpl.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/support/http/AbstractWebStatImpl.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/support/http/AbstractWebStatImpl.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/client/NacosPropertySource.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/client/NacosPropertySource.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/client/NacosPropertySource.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/client/NacosPropertySource.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLAllExpr.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLAllExpr.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLAllExpr.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLAllExpr.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/endpoint/NacosDiscoveryEndpoint.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/endpoint/NacosDiscoveryEndpoint.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/endpoint/NacosDiscoveryEndpoint.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/endpoint/NacosDiscoveryEndpoint.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/dialect/db2/visitor/DB2SchemaStatVisitor.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/dialect/db2/visitor/DB2SchemaStatVisitor.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/dialect/db2/visitor/DB2SchemaStatVisitor.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/dialect/db2/visitor/DB2SchemaStatVisitor.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/NacosConfigManager.java",
+        "project_id": "PA02",
+        "target": "spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/NacosConfigManager.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/NacosConfigManager.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA02-Solution/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/NacosConfigManager.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLInsertInto.java",
+        "project_id": "PA03",
+        "target": "core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLInsertInto.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLInsertInto.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA03-Solution/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLInsertInto.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/text/StrTokenizer.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/ObjectUtils.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/ObjectUtils.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/ObjectUtils.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/ObjectUtils.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/BitField.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/BitField.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/BitField.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/BitField.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/tuple/MutablePair.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/tuple/MutablePair.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/tuple/MutablePair.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/tuple/MutablePair.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/concurrent/ConstantInitializer.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/concurrent/ConstantInitializer.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/concurrent/ConstantInitializer.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/concurrent/ConstantInitializer.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/concurrent/AtomicSafeInitializer.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/concurrent/AtomicSafeInitializer.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/concurrent/AtomicSafeInitializer.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/concurrent/AtomicSafeInitializer.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/compare/ComparableUtils.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/compare/ComparableUtils.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/compare/ComparableUtils.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/compare/ComparableUtils.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/Streams.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/Streams.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/Streams.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/Streams.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/LongRange.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/LongRange.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/LongRange.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/LongRange.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/text/translate/UnicodeUnpairedSurrogateRemover.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/text/translate/UnicodeUnpairedSurrogateRemover.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/text/translate/UnicodeUnpairedSurrogateRemover.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/text/translate/UnicodeUnpairedSurrogateRemover.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/mutable/MutableByte.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/mutable/MutableByte.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/mutable/MutableByte.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/mutable/MutableByte.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/Functions.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/Functions.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/Functions.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/Functions.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/reflect/TypeLiteral.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/reflect/TypeLiteral.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/reflect/TypeLiteral.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/reflect/TypeLiteral.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/function/FailableIntFunction.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/function/FailableIntFunction.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/function/FailableIntFunction.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/function/FailableIntFunction.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/CachedRandomBits.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/CachedRandomBits.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/CachedRandomBits.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/CachedRandomBits.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/BooleanUtils.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/BooleanUtils.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/BooleanUtils.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/BooleanUtils.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/IntegerRange.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/IntegerRange.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/IntegerRange.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/IntegerRange.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/builder/ToStringBuilder.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/builder/ToStringBuilder.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/builder/ToStringBuilder.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/builder/ToStringBuilder.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/concurrent/AbstractConcurrentInitializer.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/concurrent/AbstractConcurrentInitializer.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/concurrent/AbstractConcurrentInitializer.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/concurrent/AbstractConcurrentInitializer.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/function/FailableToLongFunction.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/function/FailableToLongFunction.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/function/FailableToLongFunction.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/function/FailableToLongFunction.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/stream/LangCollectors.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/stream/LangCollectors.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/stream/LangCollectors.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/stream/LangCollectors.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/tuple/Pair.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/tuple/Pair.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/tuple/Pair.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/tuple/Pair.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/mutable/MutableLong.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/mutable/MutableLong.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/mutable/MutableLong.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/mutable/MutableLong.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/builder/MultilineRecursiveToStringStyle.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/builder/MultilineRecursiveToStringStyle.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/builder/MultilineRecursiveToStringStyle.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/builder/MultilineRecursiveToStringStyle.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/text/translate/EntityArrays.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/text/translate/EntityArrays.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/text/translate/EntityArrays.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/text/translate/EntityArrays.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/time/FastTimeZone.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/time/FastTimeZone.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/time/FastTimeZone.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/time/FastTimeZone.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/function/FailableIntConsumer.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/function/FailableIntConsumer.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/function/FailableIntConsumer.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/function/FailableIntConsumer.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/function/FailableLongFunction.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/function/FailableLongFunction.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/function/FailableLongFunction.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/function/FailableLongFunction.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/reflect/MethodUtils.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/reflect/MethodUtils.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/reflect/MethodUtils.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/reflect/MethodUtils.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/concurrent/EventCountCircuitBreaker.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/concurrent/EventCountCircuitBreaker.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/concurrent/EventCountCircuitBreaker.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/concurrent/EventCountCircuitBreaker.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/AppendableJoiner.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/AppendableJoiner.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/AppendableJoiner.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/AppendableJoiner.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/ThreadUtils.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/ThreadUtils.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/ThreadUtils.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/ThreadUtils.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+        "project_id": "PA04",
+        "target": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+        "todo_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04/src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+        "solution_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/projects/PA04-Solution/src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+        "precheck_ok": true,
+        "precheck_reason": "exact_reconstruction"
+      }
+    ]
+  },
+  "evaluation": {
+    "evaluated": 100,
+    "valid": 100,
+    "invalid": 0,
+    "tasks": [
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/RuleType.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/SQLUtils.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-schedulerx/src/main/java/com/alibaba/cloud/scheduling/schedulerx/util/CronExpression.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/wall/spi/PGWallProvider.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/factorybean/FileRefreshableDataSourceFactoryBean.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/SQLOrderBy.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-tests/spring-cloud-alibaba-test-support/src/main/java/com/alibaba/cloud/testsupport/ContainerStarter.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/ast/MySqlKey.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/registry/NacosRegistration.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/filter/logging/Log4jFilter.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/event/NacosDiscoveryInfoChangedEvent.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/SQLOver.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/config/DataSourcePropertiesConfiguration.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/util/DruidPasswordCallback.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/SentinelConfigBuilder.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLJoinTableSource.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/SentinelCircuitBreakerFactory.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/wall/WallFunctionStat.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-stream-rocketmq/src/main/java/com/alibaba/cloud/stream/binder/rocketmq/properties/RocketMQCommonProperties.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/ast/MySqlForceIndexHint.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/annotation/NacosPropertiesKeyListener.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/support/http/stat/WebAppStatManager.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/client/NacosPropertySourceBuilder.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/util/DaemonThreadFactory.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-gateway/src/main/java/com/alibaba/cloud/sentinel/gateway/scg/SentinelSCGAutoConfiguration.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLSizeExpr.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/config/FileDataSourceProperties.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLAlterTableAddConstraint.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/NacosConfigProperties.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/PagerUtils.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-examples/sentinel-example/sentinel-resttemplate-example/src/main/java/com/alibaba/cloud/examples/RestTemplateApplication.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/support/logging/SLF4JImpl.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-sentinel/src/main/java/com/alibaba/cloud/sentinel/rest/SentinelClientHttpResponse.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/pool/ha/selector/RandomDataSourceRecoverThread.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/refresh/NacosConfigRefreshEvent.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLWhileStatement.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/registry/NacosGracefulShutdownDelegate.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/mock/MockClob.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/refresh/NacosRefreshHistory.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/visitor/MySqlSchemaStatVisitor.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/ReactiveSentinelCircuitBreaker.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLExtractExpr.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-tests/spring-cloud-alibaba-test-support/src/main/java/com/alibaba/cloud/testsupport/Tester.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLBinaryExpr.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/factorybean/NacosDataSourceFactoryBean.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/parser/MySqlExprParser.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-sentinel/src/main/java/com/alibaba/cloud/sentinel/endpoint/SentinelEndpoint.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLSelect.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/SentinelCircuitBreaker.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLCreateViewStatement.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/NacosServiceDiscovery.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLIdentifierExpr.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/registry/NacosAutoServiceRegistration.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLGroupingSetExpr.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/ServiceCache.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/druid-spring-boot-3-starter/src/main/java/com/alibaba/druid/spring/boot3/autoconfigure/DruidDataSourceBuilder.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/ReactiveSentinelCircuitBreakerFactory.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/support/http/AbstractWebStatImpl.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/client/NacosPropertySource.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLAllExpr.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/endpoint/NacosDiscoveryEndpoint.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/dialect/db2/visitor/DB2SchemaStatVisitor.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/NacosConfigManager.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          192,
+          192
+        ],
+        "skipped_tests": 6,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0000-358e9712a96dd91b.log",
+        "build_representative_task_id": "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java"
+      },
+      {
+        "task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLInsertInto.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          4390,
+          4390
+        ],
+        "skipped_tests": 1,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0001-acc6f7db54374aa8.log",
+        "build_representative_task_id": "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/ObjectUtils.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/BitField.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/tuple/MutablePair.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/concurrent/ConstantInitializer.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/concurrent/AtomicSafeInitializer.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/compare/ComparableUtils.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/Streams.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/LongRange.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/text/translate/UnicodeUnpairedSurrogateRemover.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/mutable/MutableByte.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/Functions.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/reflect/TypeLiteral.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/function/FailableIntFunction.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/CachedRandomBits.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/BooleanUtils.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/IntegerRange.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/builder/ToStringBuilder.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/concurrent/AbstractConcurrentInitializer.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/function/FailableToLongFunction.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/stream/LangCollectors.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/tuple/Pair.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/mutable/MutableLong.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/builder/MultilineRecursiveToStringStyle.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/text/translate/EntityArrays.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/time/FastTimeZone.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/function/FailableIntConsumer.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/function/FailableLongFunction.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/reflect/MethodUtils.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/concurrent/EventCountCircuitBreaker.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/AppendableJoiner.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/ThreadUtils.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      },
+      {
+        "task_id": "PA04/src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+        "valid": true,
+        "reason": "gold_pass",
+        "compile_errors": 0,
+        "test_result": [
+          11682,
+          11682
+        ],
+        "skipped_tests": 38,
+        "has_todo": false,
+        "can_replace": true,
+        "compile_returncodes": [
+          0
+        ],
+        "test_returncode": 0,
+        "test_report_error": null,
+        "log_path": "/Users/nvoter/Desktop/lab/JavaBench-Remaster/datasets/_gold_score_projects_logs/0002-2ee74afefc8299b7.log",
+        "build_representative_task_id": "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java"
+      }
+    ]
+  },
+  "valid_task_ids": [
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/reactive/NacosReactiveDiscoveryClient.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLListExpr.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/RuleType.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/SQLUtils.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-schedulerx/src/main/java/com/alibaba/cloud/scheduling/schedulerx/util/CronExpression.java",
+    "PA03/core/src/main/java/com/alibaba/druid/wall/spi/PGWallProvider.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/factorybean/FileRefreshableDataSourceFactoryBean.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/ast/SQLOrderBy.java",
+    "PA02/spring-cloud-alibaba-tests/spring-cloud-alibaba-test-support/src/main/java/com/alibaba/cloud/testsupport/ContainerStarter.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/ast/MySqlKey.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/registry/NacosRegistration.java",
+    "PA03/core/src/main/java/com/alibaba/druid/filter/logging/Log4jFilter.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/event/NacosDiscoveryInfoChangedEvent.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/ast/SQLOver.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/config/DataSourcePropertiesConfiguration.java",
+    "PA03/core/src/main/java/com/alibaba/druid/util/DruidPasswordCallback.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/SentinelConfigBuilder.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLJoinTableSource.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/SentinelCircuitBreakerFactory.java",
+    "PA03/core/src/main/java/com/alibaba/druid/wall/WallFunctionStat.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-stream-rocketmq/src/main/java/com/alibaba/cloud/stream/binder/rocketmq/properties/RocketMQCommonProperties.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/ast/MySqlForceIndexHint.java",
+    "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/annotation/NacosPropertiesKeyListener.java",
+    "PA03/core/src/main/java/com/alibaba/druid/support/http/stat/WebAppStatManager.java",
+    "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/client/NacosPropertySourceBuilder.java",
+    "PA03/core/src/main/java/com/alibaba/druid/util/DaemonThreadFactory.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-gateway/src/main/java/com/alibaba/cloud/sentinel/gateway/scg/SentinelSCGAutoConfiguration.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLSizeExpr.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/config/FileDataSourceProperties.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLAlterTableAddConstraint.java",
+    "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/NacosConfigProperties.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/PagerUtils.java",
+    "PA02/spring-cloud-alibaba-examples/sentinel-example/sentinel-resttemplate-example/src/main/java/com/alibaba/cloud/examples/RestTemplateApplication.java",
+    "PA03/core/src/main/java/com/alibaba/druid/support/logging/SLF4JImpl.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-sentinel/src/main/java/com/alibaba/cloud/sentinel/rest/SentinelClientHttpResponse.java",
+    "PA03/core/src/main/java/com/alibaba/druid/pool/ha/selector/RandomDataSourceRecoverThread.java",
+    "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/refresh/NacosConfigRefreshEvent.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLWhileStatement.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/registry/NacosGracefulShutdownDelegate.java",
+    "PA03/core/src/main/java/com/alibaba/druid/mock/MockClob.java",
+    "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/refresh/NacosRefreshHistory.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/visitor/MySqlSchemaStatVisitor.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/ReactiveSentinelCircuitBreaker.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLExtractExpr.java",
+    "PA02/spring-cloud-alibaba-tests/spring-cloud-alibaba-test-support/src/main/java/com/alibaba/cloud/testsupport/Tester.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLBinaryExpr.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-alibaba-sentinel-datasource/src/main/java/com/alibaba/cloud/sentinel/datasource/factorybean/NacosDataSourceFactoryBean.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/dialect/mysql/parser/MySqlExprParser.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-sentinel/src/main/java/com/alibaba/cloud/sentinel/endpoint/SentinelEndpoint.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLSelect.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/SentinelCircuitBreaker.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLCreateViewStatement.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/NacosServiceDiscovery.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLIdentifierExpr.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/registry/NacosAutoServiceRegistration.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLGroupingSetExpr.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/discovery/ServiceCache.java",
+    "PA03/druid-spring-boot-3-starter/src/main/java/com/alibaba/druid/spring/boot3/autoconfigure/DruidDataSourceBuilder.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-circuitbreaker-sentinel/src/main/java/com/alibaba/cloud/circuitbreaker/sentinel/ReactiveSentinelCircuitBreakerFactory.java",
+    "PA03/core/src/main/java/com/alibaba/druid/support/http/AbstractWebStatImpl.java",
+    "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/client/NacosPropertySource.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/ast/expr/SQLAllExpr.java",
+    "PA02/spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-discovery/src/main/java/com/alibaba/cloud/nacos/endpoint/NacosDiscoveryEndpoint.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/dialect/db2/visitor/DB2SchemaStatVisitor.java",
+    "PA02/spring-cloud-alibaba-starters/spring-alibaba-nacos-config/src/main/java/com/alibaba/cloud/nacos/NacosConfigManager.java",
+    "PA03/core/src/main/java/com/alibaba/druid/sql/ast/statement/SQLInsertInto.java",
+    "PA04/src/main/java/org/apache/commons/lang3/text/StrTokenizer.java",
+    "PA04/src/main/java/org/apache/commons/lang3/ObjectUtils.java",
+    "PA04/src/main/java/org/apache/commons/lang3/BitField.java",
+    "PA04/src/main/java/org/apache/commons/lang3/tuple/MutablePair.java",
+    "PA04/src/main/java/org/apache/commons/lang3/concurrent/ConstantInitializer.java",
+    "PA04/src/main/java/org/apache/commons/lang3/concurrent/AtomicSafeInitializer.java",
+    "PA04/src/main/java/org/apache/commons/lang3/compare/ComparableUtils.java",
+    "PA04/src/main/java/org/apache/commons/lang3/Streams.java",
+    "PA04/src/main/java/org/apache/commons/lang3/LongRange.java",
+    "PA04/src/main/java/org/apache/commons/lang3/text/translate/UnicodeUnpairedSurrogateRemover.java",
+    "PA04/src/main/java/org/apache/commons/lang3/mutable/MutableByte.java",
+    "PA04/src/main/java/org/apache/commons/lang3/Functions.java",
+    "PA04/src/main/java/org/apache/commons/lang3/reflect/TypeLiteral.java",
+    "PA04/src/main/java/org/apache/commons/lang3/function/FailableIntFunction.java",
+    "PA04/src/main/java/org/apache/commons/lang3/CachedRandomBits.java",
+    "PA04/src/main/java/org/apache/commons/lang3/BooleanUtils.java",
+    "PA04/src/main/java/org/apache/commons/lang3/IntegerRange.java",
+    "PA04/src/main/java/org/apache/commons/lang3/builder/ToStringBuilder.java",
+    "PA04/src/main/java/org/apache/commons/lang3/concurrent/AbstractConcurrentInitializer.java",
+    "PA04/src/main/java/org/apache/commons/lang3/function/FailableToLongFunction.java",
+    "PA04/src/main/java/org/apache/commons/lang3/stream/LangCollectors.java",
+    "PA04/src/main/java/org/apache/commons/lang3/tuple/Pair.java",
+    "PA04/src/main/java/org/apache/commons/lang3/mutable/MutableLong.java",
+    "PA04/src/main/java/org/apache/commons/lang3/builder/MultilineRecursiveToStringStyle.java",
+    "PA04/src/main/java/org/apache/commons/lang3/text/translate/EntityArrays.java",
+    "PA04/src/main/java/org/apache/commons/lang3/time/FastTimeZone.java",
+    "PA04/src/main/java/org/apache/commons/lang3/function/FailableIntConsumer.java",
+    "PA04/src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java",
+    "PA04/src/main/java/org/apache/commons/lang3/function/FailableLongFunction.java",
+    "PA04/src/main/java/org/apache/commons/lang3/reflect/MethodUtils.java",
+    "PA04/src/main/java/org/apache/commons/lang3/concurrent/EventCountCircuitBreaker.java",
+    "PA04/src/main/java/org/apache/commons/lang3/AppendableJoiner.java",
+    "PA04/src/main/java/org/apache/commons/lang3/ThreadUtils.java",
+    "PA04/src/main/java/org/apache/commons/lang3/time/FastDateFormat.java"
+  ],
+  "invalid_task_ids": []
+}
